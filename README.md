@@ -1,6 +1,6 @@
-# alfred_test_speech
+# asimple_speech_recognition_flutter_app
 
-The Sketch of a Virtual Assistant
+Simple Speech Recognition App
 
 ## Getting Started
 
