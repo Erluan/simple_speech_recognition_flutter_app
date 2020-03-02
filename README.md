@@ -1,4 +1,4 @@
-# asimple_speech_recognition_flutter_app
+# simple_speech_recognition_flutter_app
 
 Simple Speech Recognition App
 
